@@ -8,8 +8,8 @@ def main(a):
 
     a=36.324956
 
-    return  a
+    return a
 
-x=main(45.4534)
+x=main(45.453)
 
 print(round(x,2))
