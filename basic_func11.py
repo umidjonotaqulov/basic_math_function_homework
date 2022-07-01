@@ -8,5 +8,4 @@ def main(a):
     return a
 
 x=main("a")
-
 print(x)
