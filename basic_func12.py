@@ -9,5 +9,4 @@ def main(a):
     return round(x,2)
 
 x=main( 45.453)
-
 print()
