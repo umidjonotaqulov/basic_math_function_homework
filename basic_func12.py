@@ -6,10 +6,8 @@
 
 def main(a):
 
-    a=36.324956
+    return round(x,2)
 
-    return a
+x=main( 45.453)
 
-x=main(45.453)
-
-print(round(x,2))
+print()
