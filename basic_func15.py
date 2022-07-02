@@ -6,6 +6,6 @@ def main(a,b):
 
     return a%b
 
-x=main(15,6)
+x=main(20,7)
 
 print(x)
