@@ -6,7 +6,7 @@ from math import sqrt
 
 def main(a):
 
-    return sqrt(36)
+    return sqrt(a)
 
 x=main(36)
 
